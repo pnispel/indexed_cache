@@ -1,2 +1,2 @@
-# indexed_cache
-an indexeddb wrapper that provides caching functionality 
+# large_file_uploads
+fault taulerant large file uploads
