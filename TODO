@@ -1,0 +1,6 @@
+ ☐ add in node support
+ ☐ ability to either pass a key or have one generated
+ ✔ loop through existing data and remove old cached items @done (15-06-20 14:28)
+ ☐ allow items other than blobs
+ ☐ convert minutes to milliseconds and add that to the date to get removal
+ ☐ add error handling to promise.all
