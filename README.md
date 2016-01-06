@@ -1,2 +1,3 @@
-# large_file_uploads
-fault taulerant large file uploads
+# indexed_cache
+caching layer built on indexed db
+
